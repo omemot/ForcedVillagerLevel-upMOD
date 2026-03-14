@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:stick" },
+    { "item": "minecraft:emerald" },
+    { "item": "minecraft:emerald" },
+    { "item": "minecraft:emerald" }
+  ],
+  "result": {
+    "id": "examplemod:villager_upgrader",
+    "count": 1
+  }
+}
