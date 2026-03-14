@@ -34,6 +34,14 @@
 2. ターミナルで `./gradlew build` を実行。
 3. `build/libs/` 内に生成された JAR ファイルを `mods` フォルダに配置。
 
+## 💎 クラフト方法 (Crafting)
+
+サバイバルモードでは、クラフト枠に以下の素材を並べるだけで作成できます（配置は自由です）。
+
+- **エメラルド** ×3
+- **棒** ×1
+
+特別な配置は必要ありません。作業台、あるいは手元の 2x2 クラフト枠でもエメラルド 3 枚と棒が 1 本あれば作成可能です。
 ---
 **Summary (English):**
 This NeoForge mod introduces a custom "Villager Upgrader" item that allows players to instantly level up a villager's profession tier while safely refreshing their trade offers using a server-side execution task and precise experience threshold management to ensure stable and consistent gameplay progression.
