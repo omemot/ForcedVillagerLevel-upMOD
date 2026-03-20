@@ -24,7 +24,6 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 @Mod(ExampleMod.MODID)
 public class ExampleMod {
-    //Welcome! But I think it's unfair to find this like this. By the way, if you expose this online, I'll never make a secret like this again.
     public static final String MODID = "forced_villager_levelup";
     public static final Logger LOGGER = LogUtils.getLogger();
 
