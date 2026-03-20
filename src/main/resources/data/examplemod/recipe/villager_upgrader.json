@@ -7,7 +7,7 @@
     { "item": "minecraft:emerald" }
   ],
   "result": {
-    "id": "examplemod:villager_upgrader",
+    "id": "forced_villager_levelup:villager_upgrader",
     "count": 1
   }
 }
